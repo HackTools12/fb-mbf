@@ -18,5 +18,5 @@ $ python mbf.py
 - mechanize
 ## Thank To
 ```
-Allah SWT | Everybody
+Allah SWT | Everybody | Admin
 ```
