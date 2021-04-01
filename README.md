@@ -12,6 +12,8 @@ $ pip install mechanize
 $ git clone https://github.com/HackTools12/fb-mbf
 $ cd fb-mbf
 $ python mbf.py
+```
+```
 - Pass Tools > user_mbf
 ```
 ## required
